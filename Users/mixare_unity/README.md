@@ -1,8 +1,8 @@
 # Mixare 와 Vuforia 오픈소스를 이용한 AR 지도 어플리케이션
 
-개발환경 : Android Studio, Unity3D
-Open Library: Mixare
-Database for AR : Vuforia
+개발환경 : Android Studio, Unity3D<br>
+Open Library: Mixare<br>
+Database for AR : Vuforia<br>
 
 [Mixare](http://www.mixare.org/)
 
